@@ -13,3 +13,4 @@
 ## 安装指南
 
 1. 克隆项目：
+  git@github.com:Windz1/single-arm-robot.git
